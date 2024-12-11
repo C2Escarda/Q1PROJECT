@@ -1,0 +1,124 @@
+		*{
+			text-decoration: none;
+		}
+		.navbar{
+			background: #8a6851; font-family: serif; padding-right: 15px; padding-left: 15px;
+		}
+		.navdiv{
+			display: flex;
+			align-items: center; justify-content: space-between;
+		}
+		.logo a{
+			font-size: 35px; font-weight: 600; color: #dbd1bc;
+		}
+		li{
+			list-style: none; display: inline-block;
+		}
+		li a{
+			color: #dbd1bc; font-size: 18px; font-weight: bold; margin-right: 25px; font-family: sans-serif;
+		}
+		button{
+			background-color: #8a6851; margin-left: 10px; padding: 10px; border: transparent;
+		}
+		button a{
+			color: #dbd1bc; font-weight: bolder; font-size: 18px;
+		}
+		.center{
+			font-family: sans-serif; text-align:
+		}
+		.search{
+			width: 1000px;
+			display: flex;
+			align-items: center;
+			padding: 8px;
+			border-radius: 32px;
+			background: white;
+		}
+		.search-input{
+			font-size: 16px;
+			width: 900px;
+			margin-left: 8px;
+			outline: white;
+			border: white;
+		}
+		.models{
+			text-align: center;
+			font-family: sans-serif;
+		}
+		.sigmers{
+			text-align: center;
+		}
+		.tsc{
+			font-size: 45px;
+		}
+		.whatif{
+			display: flex;
+			justify-content: center;
+
+		}
+		.TCCS{
+			text-align: left;
+			padding-left: 430px;
+		}
+		.button2{
+			background-color: #8a6851; border-radius: 25px;
+			color: #dbd1bc; cursor: pointer;
+			transition: 0.3s;
+		}
+		.button2:hover{
+			color: #8a6851; background-color: #dbd1bc;
+			transition: 0.1s;
+		}
+		.skibidi:hover{
+			transform:scale(1.1);
+			z-index: 2;
+			transition: 0.1s;
+		}
+		.skibidi{
+			transition: 0.3s;
+			padding: 5px;
+		}
+		.blahlblah{
+			cursor: pointer;
+		}
+		.foodnam{
+			text-align: left;
+			padding-left: 430px;
+		}
+		.peepgamelockin{
+			display: flex;
+			justify-content: center;
+		}
+		.peepgameeatin{
+			display: flex;
+			justify-content: center;
+		}
+		.foodss{
+			padding: 5px;
+			transition: 0.3s;
+		}
+		.foodss:hover{
+			transform:scale(1.1);
+			z-index: 2;
+			transition: 0.1s;
+		}
+		.drinknam{
+			text-align: left;
+			padding-left: 430px;
+			font-family: sans-serif;
+		}
+		.pastriess{
+			text-align: center;
+			font-family: sans-serif;
+			padding: 5px;
+			transition: 0.3s;
+		}
+		.pastriess:hover{
+			transform:scale(1.1);
+			z-index: 2;
+			transition: 0.1s;
+		}
+		.weresmashingmicsinkaraokebars{
+			text-align: center;
+			background: #8a6851; font-family: sans-serif; color: #dbd1bc;
+		}
